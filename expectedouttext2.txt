@@ -1,0 +1,35 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\title{Insert your title}
+\author{Insert your name}
+\date{2020-12-05}
+\begin{document}
+\maketitle (enter title)
+We already showed python, substitution
+and frac and int. We now show a list:
+\begin{itemize}
+\item hi
+\item how are
+\item you
+\end{itemize}
+That was a list.
+Now a nested list:
+\begin{itemize}
+\item hi
+\item $\frac{a}{bcdef}$
+\item python works inside the list which is good
+\item $\int_{ab}^{c}$
+\item $\alpha$
+\begin{itemize}
+\item how are you
+\end{itemize}
+\end{itemize}
+\begin{itemize}
+\item This semester was fun.
+\item I hope we get on campus
+\item sometime soon.
+\end{itemize}
+
+\end{document}

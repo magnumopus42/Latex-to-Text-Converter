@@ -1,0 +1,26 @@
+We already showed %Latex%, substitution
+and frac and int. We now show a list:
+<
+hi
+how are
+you
+>
+
+That was a list.
+Now a nested list:
+<
+hi
+$$frac a bcdef$$
+%Latex% works inside the list which is good
+$$int ab c$$
+$$alpha$$
+<
+how are you
+>
+>
+
+<
+This semester was fun.
+I hope we get on campus
+%soon% soon.
+>

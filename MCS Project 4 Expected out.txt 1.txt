@@ -1,0 +1,32 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\title{Insert your title}
+\author{Insert your name}
+\date{2020-12-05}
+\begin{document}
+\maketitle (enter title)
+Hi world.
+This is a sample text. We success to
+show that our python code works
+The above should have been substituted
+We begin with $\alpha$ and $\beta$ and $\gamma$.
+The above was latexed.
+Text before should stay on this line 
+$$\frac{abc}{b}$$
+ and text after goes down 2 lines
+The above was put on a new line and centered latex style. 
+Then we do nothing.
+
+$$\alpha$$
+
+This is test 1 which shows comments
+varsub and our latex code works:
+$\times$ and $\cdot$
+$\int_{ab}^{c}$
+
+$$\int_{ab}^{cdefg}$$
+
+We are done. Commence test 2 with in.txt2.
+\end{document}
